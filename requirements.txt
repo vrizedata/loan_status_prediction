@@ -1,0 +1,7 @@
+pandas
+numpy
+sklearn
+from-root
+mlflow
+streamlit
+
